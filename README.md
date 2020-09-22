@@ -1,2 +1,2 @@
 # rust-udemy-course
-![link](https://www.udemy.com/course/rust-lang/)
+![](https://www.udemy.com/course/rust-lang/ "Link")
